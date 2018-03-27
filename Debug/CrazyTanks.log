@@ -1,0 +1,3 @@
+﻿  Field.cpp
+d:\crazytanksnew - копия\field.cpp(116): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+  CrazyTanks.vcxproj -> D:\CrazyTanksNew - копия\Debug\CrazyTanks.exe
